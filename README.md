@@ -1,2 +1,2 @@
 # testrepbmb
-binga benga bonga bengo bongo bungo
+pierwszy commit
